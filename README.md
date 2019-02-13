@@ -1,4 +1,4 @@
-# Rest API Template - Spring Framework
+# Rest API Template - Spring Boot
 
 ## Overview
 This is my REST API has been built using Java 10, Spring Boot, Spring Cloud Feign, Swagger, Lombok, Junit5 and Docker.
