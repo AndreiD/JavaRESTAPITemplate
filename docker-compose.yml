@@ -1,0 +1,10 @@
+version: '2'
+services:
+  restapi:
+      image: andrei/restapi
+      container_name: restapi
+      ports:
+        - "8080:8080"
+
+
+
